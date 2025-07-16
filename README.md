@@ -1,4 +1,4 @@
-# Autorização de acesso a biblioteca | Java
+# Automação de acesso a biblioteca | Java
 Uma biblioteca está implementando um sistema automatizado para liberar o acesso à área de livros raros. O sistema deve permitir a entrada apenas para visitantes autorizados e com idade mínima de 18 anos. Para isso, é necessário utilizar operadores lógicos, estruturas condicionais (if, else, else if) e conceitos básicos como tipos primitivos e palavras-chave. Desenvolva um programa que verifique se o visitante pode acessar a sala especial.
 ## Entrada
 O programa deve receber os seguintes valores:
