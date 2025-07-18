@@ -14,7 +14,7 @@ Deverá retornar uma String com as mensagens:
 | ----- | ------- |
 | true<br>20 | Acesso permitido |
 | false<br>25 | Acesso negado |
-| true<br16 | Idade insuficiente |
+| true<br>16 | Idade insuficiente |
 
 ## 🔎 Referências
 - [Digital Innovation One]()
